@@ -1,0 +1,31 @@
+.navbar
+{
+	margin-bottom: 0 !important; 
+}
+.my-menu
+{
+	background: #D90000 !important;
+	/border-radius: 0 !important; 
+
+}
+.small-menu
+{
+	
+	background:#A30000; 
+}
+.small-menu>.icon-bar
+{
+	background: #ffffff !important;;
+}
+.nav li a
+{
+	color: #ffffff;
+}
+.nav li:hover, .nav li:active
+{
+	background: #A30000;
+}
+ .activate{
+	background: #A30000;
+
+}

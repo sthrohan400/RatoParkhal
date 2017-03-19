@@ -1,0 +1,19 @@
+.black
+{
+	color: #000000;
+}
+.red
+{
+color: #D90000;
+}
+.white{
+	color: #ffffff !important;
+}
+.native-blue
+{
+	color: #00003d;
+}
+.bold
+{
+	font-weight: 900;
+}
